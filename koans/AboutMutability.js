@@ -1,4 +1,4 @@
-describe("About Mutability", function() {
+describe("About Mutability", function() { //test
 
   it("should expect object properties to be public and mutable", function () {
     var aPerson = {firstname: "John", lastname: "Smith" };
